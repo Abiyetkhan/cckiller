@@ -15,7 +15,7 @@ module.exports = {
   adminNamesForTelegramBot: ["EASYNAME69"], // CC KILLER BOT - https://t.me/BLACKHATMONKCHAT
   // name of the admin/developer who's name will be displayed when any unknown user use the command of the bot in telegram.
 
-  authorisedUserForTelegramBot: ["EASYNAME69"], // CC KILLER BOT - https://t.me/BLACKHATMONKCHAT
+  authorisedUserForTelegramBot: ["8011959413"], // CC KILLER BOT - https://t.me/BLACKHATMONKCHAT
   // username or id of the user who can use the bot.
 };
 
